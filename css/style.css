@@ -38,6 +38,7 @@ img {
 	/*centre the image*/
 	display: block;
 	margin: 0 auto;
+	cursor: pointer;
 	border: 7px solid #E82344;
 	border-radius: 10%;
 }
